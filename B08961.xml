@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections on Mr. Dunton's leaving his wife. In a letter to himself.</title>
+            <author>Dunton, John, 1659-1733.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08961</idno>
+            <idno type="OCLC"> 80922580</idno>
+            <idno type="STC">Wing D2632B</idno>
+            <idno type="STC">ESTC R223175</idno>
+            <idno type="EEBO-CITATION">80922580</idno>
+            <idno type="OCLC">ocm 80922580</idno>
+            <idno type="VID">191864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191864)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2893:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections on Mr. Dunton's leaving his wife. In a letter to himself.</title>
+                  <author>Dunton, John, 1659-1733.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Boston Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wives --  Early works to 1800.</term>
+               <term>Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191864:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:191864:2" rendition="simple:additions"/>
+            <head>REFLECTIONS on Mr. <hi>D<g ref="char:V">Ʋ</g>NTON</hi>'s Leaving his WIFE.</head>
+            <head>In a Letter to Himſelf.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received your Letter, with your <hi>Printed Caſe</hi> inclos'd: I am heartily ſorry you ſhould have ſo <hi>ſad a Caſe</hi> to impart, were it only to your Friends; but to be neceſſitated to make the World your Judges, and thereby fur<g ref="char:EOLhyphen"/>niſh matter for the Inſults of your Ene<g ref="char:EOLhyphen"/>mies, is the <hi>Exceſs of <g ref="char:V">Ʋ</g>nhappineſs:</hi> Tho' I dare avouch, upon a fair Examination of your Caſe, for your gaining to your ſide the greateſt Party, as raſhly as the World is apt to Judge. They muſt needs condemn ſuch a <hi>Senſeleſs Obſtinacy as your Wife ſhews.</hi> All her deep Policy in adhe<g ref="char:EOLhyphen"/>ring to her Mother againſt her Husband, is but the <hi>heighth of Extravagance.</hi> She values Riches, and fears Poverty ſo much, that ſhe Embraces the readieſt way to pro<g ref="char:EOLhyphen"/>cure what ſhe Fears, and never to enjoy what ſhe Prizes; <hi>ſhe builds her Fortune upon her Husbands Ruin,</hi> and ſees not how hea<g ref="char:EOLhyphen"/>vy it falls upon her ſelf. This ſhe may be ſenſible of, when 'tis paſt Remedy; which will be the more Deplorable, as it might have been ſo eaſily prevented. But no Woman that had <hi>Lov'd her Husband at half the rate ſhe pretends,</hi> would have ever ſlipt ſuch an opportunity of kindly obliging a Man of ſo Grateful a Temper, that he Studies to requite the leaſt Courteſie from meer Strangers, <hi>but would make it the buſi<g ref="char:EOLhyphen"/>neſs of his whole Life to requite a Kindneſs that came kindly from his Wife.</hi>
+            </p>
+            <p>Your Propoſals were ſo <hi>open, fair, and candid,</hi> after the Charitable Arts you us'd to change her Carriage, hoping <hi>to have caught her with Guile,</hi> [2 Cor. 12. 16.] that 'tis the greateſt Wonder to ſee a De<g ref="char:EOLhyphen"/>ſign ſo well laid, <hi>ſo perverſly loſt;</hi> nor had it been poſſible, had you been to deal with People of <hi>Common Senſe:</hi> But what Treat<g ref="char:EOLhyphen"/>ment muſt an Honeſt Sober Man expect at the hands of <hi>a meer Woman,</hi> that has not Wit enough to diſtinguiſh <hi>a Hus<g ref="char:EOLhyphen"/>band's Neceſſities from his Extravagance;</hi> and thinks it Wiſdom to tie the hands of a Husband, tho' tis to the Ruin of <hi>his</hi> Cre<g ref="char:EOLhyphen"/>dit, and <hi>her own?</hi> The <hi>Methods</hi> us'd by you, were ſo <hi>Wiſe and Cautious,</hi> there's nothing left for Excuſe on their parts. Mr. <hi>Larkin Acted like a Friend-between you both;</hi> and gave 'em a fair Occaſion to ſee and conſider the Miſchiefs they were like to be involv'd in, and muſt inevitably fall upon themſelves; for <hi>the ſinking of a Hus<g ref="char:EOLhyphen"/>band's Credit, ſeldom brings much Honour to a Wife.</hi> But be ſhe as indifferent as ſhe Pleaſes to that Point, a little thinking might awaken her Fears, leaſt theſe ways of proceeding may prove the means of forcing you to ſuch Meaſures for Pay<g ref="char:EOLhyphen"/>ing your Debts, which in the end may prove of no great Advantage to her, with reſpect <hi>to meer Intereſt,</hi> ſeting aſide thoſe of preſerving Peace and Charity; <hi>nay, the Shame of the World, and Speech of People,</hi>
+               <pb n="2" facs="tcp:191864:3" rendition="simple:additions"/> which perhaps ſhe better underſtands, un<g ref="char:EOLhyphen"/>leſs with the help of her Mother, ſhe thinks to bring the World to her ſide by <hi>thoſe Objections</hi> with which they ſatisfie them<g ref="char:EOLhyphen"/>ſelves; but 'tis plain there's nothing in 'em; tis <hi>only a pretence to ſave their Bags:</hi> For if there's no poſſibility of proving you <hi>a Vicious Man,</hi> what cauſe is there of ſay<g ref="char:EOLhyphen"/>ing there will be <hi>no end of paying your Debts?</hi> But if they will not <hi>Truſt Providence,</hi> but will have you give over your <hi>Trade,</hi> for for fear of loſing by it, you offer 'em fair; let 'em <hi>put you in a way of Living</hi> without it, and uſe you like a Friend, and you'll ſoon <hi>take off all Objections</hi> they ſhall bring againſt you.</p>
+            <p>And as you have not <hi>ſpared your ſelf,</hi> but made the World acquainted with what they <hi>pretended to object againſt you,</hi> ſo you do very well to juſtifie your fair dealing, as in your <hi>Reflections</hi> you make it appear, that you gave 'em <hi>full ſatisfaction of the whole Circumſtance of your Fortune;</hi> which obliges them to a Performance of what ever was Promis'd on the other part, both in <hi>Honour and Conſcience,</hi> if they have either: But ſome Paſſages in their Conduct, make 'em both a little doubtful. As to <hi>your Wife, what Honour</hi> is in prefering her Mothers Bags before the Credit, and Quiet of her Hus<g ref="char:EOLhyphen"/>band? And as <hi>little Conſcience,</hi> in <hi>Swearing before her Marriage, ſhe would never ſuffer her Husband to take up a Peny upon her Jointure in caſe of the greateſt Neceſſity,</hi> quiet oppoſite to <hi>a Vow</hi> ſhe was going ſo Solemnly to make, in the preſence of <hi>God;</hi> and this by her <hi>Mothers Command; which ſhews they are both of a Stamp.</hi> She might as well have made her <hi>Swear to hate her Husband, and do him all the Miſchief ſhe could;</hi> it would have been as Lawful, and as conſiſtent with her <hi>Matrimonial Vow.</hi> But that which gives the Sanction to this Oath, <hi>(and inſpires her with a Zeal to Burn, rather than Violate her Vow)</hi> is, that <hi>her Mother will not give her a Farthing if ſhe does.</hi> Thus you ſee Money is the <hi>God</hi> they love and honour, and deny themſelves Credit and Reputa<g ref="char:EOLhyphen"/>tion, Peace and Quietneſs, and all Earthly Comforts, for the ſake of this <hi>Idol.</hi> It had been but juſt and fair to have told you <hi>what Religion ſhe was of,</hi> that you might have choſe whether you would have <hi>Mar<g ref="char:EOLhyphen"/>ried an Idolater;</hi> with which, I am certain, (had you known it) you would never have ventured to contaminate <hi>your ſelf and Po<g ref="char:EOLhyphen"/>ſterity;</hi> there's little Honour in deceiving a Husband. Therefore both in <hi>Conſci<g ref="char:EOLhyphen"/>ence and Honour</hi> ſhe was bound to have acquainted you with <hi>what her Mother made her Swear,</hi> that ſo you might have ſecured your ſelf of ſome means to be Juſt, &amp; pay your Debts: <hi>But that's the leaſt of her Care;</hi> for if ſhe owns that <hi>you and ſhe are all one,</hi> and yet denies her aſſi<g ref="char:EOLhyphen"/>ſtance to pay your Debts, it plainly ſhews ſhe would not pay 'em, if they were <hi>ſoley hers, and none of yours.</hi>
+            </p>
+            <p>I cann't blame you for <hi>not deſiring In<g ref="char:EOLhyphen"/>creaſe from ſuch a Stock, unleſs you can mend it;</hi> there's ſmall Comfort in having Chil<g ref="char:EOLhyphen"/>dren Nurſed up in <hi>Rebelion &amp; Wicked<g ref="char:EOLhyphen"/>neſs;</hi> were that all. But you have ano<g ref="char:EOLhyphen"/>ther Reaſon, more prevalent with you, very much becoming <hi>a Juſt and Honeſt Man,</hi> which makes you content to leave neither <hi>Heir nor Eſtate</hi> behind you, and ſuffer any thing, rather then do the leaſt Injuſtice; or that any one ſhould ſuf<g ref="char:EOLhyphen"/>fer upon your account: This is <hi>a Vertue ſo out of their way,</hi> they cann't in the leaſt comprehend it, nor <hi>truly Act</hi> any thing elſe that is at all allyed to Vertue; and this is ſufficiently ſeen in their unanimouſ<g ref="char:EOLhyphen"/>ly rejecting ſuch <hi>Condeſcending Propoſals</hi> as thoſe you made 'em; and ſhews the ſtrength of all Combinations of Wicked<g ref="char:EOLhyphen"/>neſs that can prevail to the making a ſa<g ref="char:EOLhyphen"/>crifice of their True Intereſt and Happy<g ref="char:EOLhyphen"/>neſs, to their <hi>Senſeleſs and Obſtinate Paſſions;</hi> otherwiſe the <hi>Letter you ſent
+<pb n="3" facs="tcp:191864:3"/> her by Mr. Larkin,</hi> would have made ſome impreſſion upon a Wife that had the <hi>leaſt Spark of Love to her Husband, or Senſe of her Duty.</hi> But ſhe had ſo far imbib'd her <hi>Mother's Principles,</hi> of holding the <hi>Concluſion,</hi> as ſpar'd the trouble of a further Anſwer, than that <hi>her Mother had made her take a Wicked Oath, and ſhe held her ſelf bound to keep it.</hi> You might well Divine what a Reception you was like to meet with, yet 'twas <hi>Generouſly done to go your ſelf,</hi> and own to their Faces your real ſenſe of their Behaviour, and what it had forc'd you to reſolve upon, ſince they had neither by <hi>Words nor Acti<g ref="char:EOLhyphen"/>ons</hi> given you the leaſt Temptation to <hi>Treſpaſs upon your Friends</hi> for their ſakes; and as you were treated with <hi>Paſſion on their ſide,</hi> what need of Apology? Sure, if ever there's occaſion for it, 'tis when all the <hi>Laws of Conjugal Affection</hi> are broke, and by the <hi>Inſtigation of a Mother that had hier'd her Daughter with deceitful Promiſes to ahandon her Husband's Intereſt:</hi> And who it is that governs the Mother, may be gueſt at by her Actions. To have made a plauſible Excuſe for denying <hi>a Kindneſs of that Neceſſity,</hi> to one <hi>ſo nearly related,</hi> had been inhumane enough; but ſuch <hi>a Violent Aſſeveration, of being Torn Limb from Limb, rather then to aſſiſt you, that had Marry'd her Danghter,</hi> and to whom ſhe was indebted, by Promiſe at her Death, a far greater ſum; this Uncharitable Mind, to ſay the leaſt of it, plainly ſhews <hi>whoſe ſhe is, and whom ſhe ſerves, and who has blinded her to all that was capable of moving her to any thing that would be thought humane.</hi> And however they may repreſent your Paſſion, the <hi>Chriſtian and Charitable Leave</hi> you took of 'em, ſpeaks you free from all <hi>Rancour and Malice;</hi> and whatever Paſſion you ſhew'd, it muſt proceed from a <hi>Violent Tranſport to reform their Errours,</hi> which they were ſo tenacious of, not<g ref="char:EOLhyphen"/>withſtanding they look'd ſo <hi>Monſtrous</hi> in your Eyes: Eſpecially your Wife's Crime was much greater than her Mothers; whoſe <hi>Influence and Authority</hi> can no way excuſe her; for had her Deſign in Marry<g ref="char:EOLhyphen"/>ing you, been only for a Ioynture, (which is plain enough) yet who would reject the Opportunity of Living happy till her <hi>Ioynture</hi> falls, which you offer her upon ſuch eaſie terms? And how ridicu<g ref="char:EOLhyphen"/>lous ſhe makes her ſelf in the Condition ſhe chuſes, and prefers <hi>before a Cohabitation with her Husband, and all for the ſake of a Ioynture</hi> that would not be much hurt by what you Propoſe. and perhaps may ne<g ref="char:EOLhyphen"/>ver fall to her? But you have <hi>done the part of a good and true Chriſtian,</hi> by ſtudy<g ref="char:EOLhyphen"/>ing all you could to live Peaceably, even with thoſe that were Enemies to Peace; and couragiouſly reſoved to run through <hi>all Difficulties with a ſteady Mind.</hi> And could you have <hi>diſpenced with the Paying of your Debts,</hi> your Propoſals had never come to raiſe ſuch a Storm: But 'tis a moſt <hi>Stu<g ref="char:EOLhyphen"/>pendious Wickedneſs</hi> (as your Wife and Mother thinks) honeſtly to ſeek the means of Paying ones Debts: Their carriage in this occaſion might incline one to think, could you have brought 'em ſuch a Sum by never ſo Unjuſt or Unlawful Means, it would not have <hi>diſturb'd their Quiet: <hi>For 'tis the ſame thing to keep ones Money <g ref="char:V">Ʋ</g>njuſtly, as to get it ſo.</hi>
+               </hi> And truly, Sir, as I deſire to maintain an <hi>inviolable Friendſhip</hi> with you to the end of my Life, I am in no danger of loſing it upon the account of blaming you for <hi>Publiſhing your Caſe.</hi> You ſay well you have tried <hi>all other ways:</hi> This may do ſome good, when well apply'd to 'em by that <hi>Reve<g ref="char:EOLhyphen"/>rend Divine</hi> to whom you have ſent it, he being a Perſon they reſpect; and if it ſucceed, you promiſe to ſuppreſs the <hi>fur<g ref="char:EOLhyphen"/>ther Publiſhing</hi> of it: If not, the World muſt know <hi>a great deal more of their Life and Actions;</hi> for why ſhould you be <hi>felo-de-ſe</hi> upon your own Reputation,
+<pb n="4" facs="tcp:191864:4"/> to ſave <hi>a Phantom?</hi> For I believe they have None to loſe; nor have not had a great while.</p>
+            <p>And now I cann't for bear remember<g ref="char:EOLhyphen"/>ing you what <hi>a high Eſteem you ever had of Wedlock;</hi> that I cou'd never ſway you to my Opinion of it, which you look'd upon as a <hi>kind of Cowardiſe in me,</hi> but I aſſure you the World is now <hi>aware of Widows that love Money,</hi> tho' perhaps it is not come to the knowledge of ſuch <hi>honeſt well meaning Men as your ſelf; that ſuſpects no more deceit in others, than you find in your own Breaſt:</hi> But now you ſee what work they make with ſuch a one, when in their Power. But there are but few of thoſe, and they may ſet their <hi>Snares</hi> long enough, ere they get any other; and it won't be long before the World will be <hi>over<g ref="char:EOLhyphen"/>ſtock'd with Rich Widows.</hi>
+            </p>
+            <p>Sir, I heartily wiſh a ſpeedy end of your <hi>Trouble;</hi> and as of all Men you <hi>deſerve a good Wife,</hi> becauſe you know how to Value her, ſo ſince it is your Fortune, I hope you will find the way of making the <hi>beſt uſe of a Bad One.</hi>
+            </p>
+            <p>But, as you well obſerve, had you <hi>the beſt cauſe in the World, you muſt expect that Men of a narrow Soul will be raiſing of Lyes,</hi> and ſaying that, which, when you appear, they'll be aſham'd to own: <hi>All Men adore the Riſing Sun, but few have any great reſpect for his Setting,</hi> except in your <hi>Caſe,</hi> which is ſo <hi>Juſt and Honourable,</hi> that there's good Reaſon to doubt the <hi>Honeſty of that Man</hi> that does not become your Friend (whatever he might be before) up<g ref="char:EOLhyphen"/>on reading your <hi>Caſe.</hi> If any are your E<g ref="char:EOLhyphen"/>nemies, 'twill be only thoſe whom you have obliged beyond any poſſibility of Requital As to thoſe you have been ſo often bound for, (or for their <hi>Relations,</hi> which is the ſame thing) the very ſtones in the Streets wou'd <hi>cry Shame on 'em,</hi> ſhou'd they ſpeak againſt you. But 'tis well known they are Perſons of a more <hi>Noble Temper</hi> then to act ſuch a mean part; neither is there any poſſibility they ſhou'd. For that part of your Caſe relating to Mr. <hi>John White,</hi> (tho' but briefly hinted in your Letter to Mr. <hi>Larkin</hi>) is <hi>largely proved</hi> in the Letter you afterwards ſent to his <hi>Widow;</hi> which Letter I have ſeen, and were it Prin<g ref="char:EOLhyphen"/>ted, it wou'd convince the World (as it did me) that <hi>you have ſaid too little, and been very kind upon that Head.</hi>
+            </p>
+            <p>Thus have I ſent you my Thoughts on your <hi>Printed Caſe.</hi> But this <hi>Solemn time of Devotion,</hi> took up ſo much of it, I had very little to ſpare for theſe <hi>Reflections:</hi> But becauſe I look'd upon it as <hi>a Work of Charity,</hi> I did make bold to borrow more then I wou'd have done on any ordinary occaſion; and I think I have ſaid ſome<g ref="char:EOLhyphen"/>thing to <hi>every Point,</hi> at leaſt the moſt Conſiderable. How Serviceable it may prove, I know not; nor what to wiſh for you, <hi>I pity you which way ſoever it happens:</hi> I ſee no pleaſant Proſpect on either ſide, unleſs they can muſter up ſome <hi>good Qua<g ref="char:EOLhyphen"/>lities for which you can find in your heart to dote upon 'em;</hi> for I am ſure they have <hi>Bad Ones enough</hi> to vex your Patience. And were it Lawful to part from a Wife for any cauſe except <hi>Adultery, or fear of ones Life,</hi> (and in ſuch a <hi>Covetous Wo<g ref="char:EOLhyphen"/>man that loves only her Ioynture,</hi> there is ſome cauſe for <hi>that</hi> ſuſpicion) otherwiſe I know not how lawful it is; but cou'd I ſatsifie my Conſcience of that Obligation, I ſhou'd <hi>far prefer any ſhift I cou'd make of paying my Debts, before living with her.</hi>—Pray God Grant you Pati<g ref="char:EOLhyphen"/>ence, if that muſt be your Lot, and direct you for the beſt.</p>
+            <p>
+               <hi>Be ſo kind</hi> to let me know your ſucceſs, for I <hi>Impatiently</hi> wait the Iſſue. I cann't be Unconcern'd in what ſo nearly relates <hi>to your Repoſe, who am,</hi>
+            </p>
+            <closer>
+               <signed>Your Faithful Friend, And Humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
